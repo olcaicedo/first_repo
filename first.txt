@@ -1,3 +1,4 @@
 this is a new line
 
-another line from branch dev
+
+this is the correct line from master
